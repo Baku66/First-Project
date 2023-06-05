@@ -1,0 +1,169 @@
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+
+h1 {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold !important;
+    color: white;
+}
+
+.container-fluid {
+    padding: 3% 15% !important;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu';
+    font-size: 2.5rem !important;
+    font-weight: bold;
+    padding-left: 0px;
+}
+
+.navbar {
+    margin-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 40%;
+    transform: rotate(25deg);
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.features-container {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    text-align: center;
+    padding: 5%;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+#features {
+    padding: 7% 15% !important;
+    background-color: #fff;
+}
+
+h3 {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+
+#testimonials {
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #ff4c68;
+
+}
+
+h2 {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold !important;
+    color: white;
+}
+
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-icon {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 7% 15%;
+}
+
+.pricing-h2 {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.card-title {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    line-height: 1.5;
+    font-size: 2rem;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+.card-text {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+.class {
+    padding: 5% 3%;
+}
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.h3-cta {
+    font-family: 'Montserrat-Black', sans-serif !important;
+    font-weight: bold !important;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+}
+
+.icon-1 {
+    padding: 10px;
+    color: black;
+    margin-top: 50px;
+}
